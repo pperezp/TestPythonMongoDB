@@ -1,3 +1,5 @@
+# sudo pip install pymongo
+
 import pymongo
 
 DB_NAME = "bdContactos"
